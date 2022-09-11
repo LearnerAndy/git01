@@ -3,4 +3,5 @@ test02
 test03
 test04
 test05
-test06-03冲突测试
+<<<<<<< HEAD
+test06-03冲突测试 & test06 冲突测试04
